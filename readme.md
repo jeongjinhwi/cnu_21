@@ -2,7 +2,7 @@ Information
 ===========
 Name
 ----
-#### JeongjinHwi
-#### KimDoYeon
-#### LeeHaewon
-#### NamJimWoo
+##### JeongjinHwi
+##### KimDoYeon
+##### LeeHaewon
+##### NamJimWoo
