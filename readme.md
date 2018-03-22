@@ -1,3 +1,5 @@
-#Information
-##Name
-~~~Jeongjinhwi
+Information
+===========
+Name
+----
+# JeongjinHwi
