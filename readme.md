@@ -1,8 +1,7 @@
 Information
 ===========
 Name
-----
 ##### JeongjinHwi
-##### KimDoYeon
 ##### LeeHaewon
+##### KimDoYeon
 ##### NamJimWoo
