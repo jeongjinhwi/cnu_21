@@ -3,6 +3,6 @@ Information
 Name
 ----
 ##### JeongjinHwi
-##### KimDoYeon.
+##### KimDoYeon
 ##### LeeHaewon
 ##### NamJimWoo
